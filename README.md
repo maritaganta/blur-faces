@@ -22,6 +22,8 @@ This project demonstrates how to perform face detection and apply a significant 
 * Press q to quit the application.
 
 ## TODO
+* Add tracking to the faces
+* Add prediction filter to the detections
 * Do not blur known faces: Implement a method to identify known faces using a facial recognition system and exclude them from blurring.
 * Blur out text: Detect and blur text within the video frames, ensuring privacy and preventing information leakage.
 
